@@ -1,0 +1,9 @@
+C:\Users\mehme\Desktop\TurkayUrkmezBootcamp\Week3\Movies\MoviesModels\bin\Debug\netcoreapp3.1\Movies.Models.deps.json
+C:\Users\mehme\Desktop\TurkayUrkmezBootcamp\Week3\Movies\MoviesModels\bin\Debug\netcoreapp3.1\Movies.Models.dll
+C:\Users\mehme\Desktop\TurkayUrkmezBootcamp\Week3\Movies\MoviesModels\bin\Debug\netcoreapp3.1\Movies.Models.pdb
+C:\Users\mehme\Desktop\TurkayUrkmezBootcamp\Week3\Movies\MoviesModels\obj\Debug\netcoreapp3.1\Movies.Models.csproj.AssemblyReference.cache
+C:\Users\mehme\Desktop\TurkayUrkmezBootcamp\Week3\Movies\MoviesModels\obj\Debug\netcoreapp3.1\Movies.Models.AssemblyInfoInputs.cache
+C:\Users\mehme\Desktop\TurkayUrkmezBootcamp\Week3\Movies\MoviesModels\obj\Debug\netcoreapp3.1\Movies.Models.AssemblyInfo.cs
+C:\Users\mehme\Desktop\TurkayUrkmezBootcamp\Week3\Movies\MoviesModels\obj\Debug\netcoreapp3.1\Movies.Models.csproj.CoreCompileInputs.cache
+C:\Users\mehme\Desktop\TurkayUrkmezBootcamp\Week3\Movies\MoviesModels\obj\Debug\netcoreapp3.1\Movies.Models.dll
+C:\Users\mehme\Desktop\TurkayUrkmezBootcamp\Week3\Movies\MoviesModels\obj\Debug\netcoreapp3.1\Movies.Models.pdb

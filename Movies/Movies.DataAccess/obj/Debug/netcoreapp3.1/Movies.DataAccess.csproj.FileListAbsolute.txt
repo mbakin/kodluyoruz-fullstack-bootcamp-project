@@ -1,0 +1,15 @@
+C:\Users\mehme\Desktop\TurkayUrkmezBootcamp\Week3\Movies\Movies.DataAccess\obj\Debug\netcoreapp3.1\Movies.DataAccess.csproj.AssemblyReference.cache
+C:\Users\mehme\Desktop\TurkayUrkmezBootcamp\Week3\Movies\Movies.DataAccess\obj\Debug\netcoreapp3.1\Movies.DataAccess.AssemblyInfoInputs.cache
+C:\Users\mehme\Desktop\TurkayUrkmezBootcamp\Week3\Movies\Movies.DataAccess\obj\Debug\netcoreapp3.1\Movies.DataAccess.AssemblyInfo.cs
+C:\Users\mehme\Desktop\TurkayUrkmezBootcamp\Week3\Movies\Movies.DataAccess\obj\Debug\netcoreapp3.1\Movies.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\mehme\Desktop\TurkayUrkmezBootcamp\Week3\Movies\Movies.DataAccess\bin\Debug\netcoreapp3.1\Movies.DataAccess.deps.json
+C:\Users\mehme\Desktop\TurkayUrkmezBootcamp\Week3\Movies\Movies.DataAccess\bin\Debug\netcoreapp3.1\Movies.DataAccess.dll
+C:\Users\mehme\Desktop\TurkayUrkmezBootcamp\Week3\Movies\Movies.DataAccess\bin\Debug\netcoreapp3.1\Movies.DataAccess.pdb
+C:\Users\mehme\Desktop\TurkayUrkmezBootcamp\Week3\Movies\Movies.DataAccess\bin\Debug\netcoreapp3.1\Movies.Models.dll
+C:\Users\mehme\Desktop\TurkayUrkmezBootcamp\Week3\Movies\Movies.DataAccess\bin\Debug\netcoreapp3.1\Movies.Models.pdb
+C:\Users\mehme\Desktop\TurkayUrkmezBootcamp\Week3\Movies\Movies.DataAccess\obj\Debug\netcoreapp3.1\Movies.DataAccess.csproj.CopyComplete
+C:\Users\mehme\Desktop\TurkayUrkmezBootcamp\Week3\Movies\Movies.DataAccess\obj\Debug\netcoreapp3.1\Movies.DataAccess.dll
+C:\Users\mehme\Desktop\TurkayUrkmezBootcamp\Week3\Movies\Movies.DataAccess\obj\Debug\netcoreapp3.1\Movies.DataAccess.pdb
+C:\Users\mehme\Desktop\TurkayUrkmezBootcamp\Week3\Movies\Movies.DataAccess\bin\Debug\netcoreapp3.1\Movies.DataAccess.runtimeconfig.json
+C:\Users\mehme\Desktop\TurkayUrkmezBootcamp\Week3\Movies\Movies.DataAccess\bin\Debug\netcoreapp3.1\Movies.DataAccess.runtimeconfig.dev.json
+C:\Users\mehme\Desktop\TurkayUrkmezBootcamp\Week3\Movies\Movies.DataAccess\obj\Debug\netcoreapp3.1\Movies.DataAccess.genruntimeconfig.cache

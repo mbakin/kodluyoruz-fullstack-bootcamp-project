@@ -1,0 +1,14 @@
+C:\Users\mehme\Desktop\TurkayUrkmezBootcamp\Week3\Movies\MoviesBussines\obj\Debug\netcoreapp3.1\Movies.Business.csproj.AssemblyReference.cache
+C:\Users\mehme\Desktop\TurkayUrkmezBootcamp\Week3\Movies\MoviesBussines\obj\Debug\netcoreapp3.1\Movies.Business.AssemblyInfoInputs.cache
+C:\Users\mehme\Desktop\TurkayUrkmezBootcamp\Week3\Movies\MoviesBussines\obj\Debug\netcoreapp3.1\Movies.Business.AssemblyInfo.cs
+C:\Users\mehme\Desktop\TurkayUrkmezBootcamp\Week3\Movies\MoviesBussines\obj\Debug\netcoreapp3.1\Movies.Business.csproj.CoreCompileInputs.cache
+C:\Users\mehme\Desktop\TurkayUrkmezBootcamp\Week3\Movies\MoviesBussines\bin\Debug\netcoreapp3.1\Movies.Business.deps.json
+C:\Users\mehme\Desktop\TurkayUrkmezBootcamp\Week3\Movies\MoviesBussines\bin\Debug\netcoreapp3.1\Movies.Business.dll
+C:\Users\mehme\Desktop\TurkayUrkmezBootcamp\Week3\Movies\MoviesBussines\bin\Debug\netcoreapp3.1\Movies.Business.pdb
+C:\Users\mehme\Desktop\TurkayUrkmezBootcamp\Week3\Movies\MoviesBussines\bin\Debug\netcoreapp3.1\Movies.DataAccess.dll
+C:\Users\mehme\Desktop\TurkayUrkmezBootcamp\Week3\Movies\MoviesBussines\bin\Debug\netcoreapp3.1\Movies.Models.dll
+C:\Users\mehme\Desktop\TurkayUrkmezBootcamp\Week3\Movies\MoviesBussines\bin\Debug\netcoreapp3.1\Movies.DataAccess.pdb
+C:\Users\mehme\Desktop\TurkayUrkmezBootcamp\Week3\Movies\MoviesBussines\bin\Debug\netcoreapp3.1\Movies.Models.pdb
+C:\Users\mehme\Desktop\TurkayUrkmezBootcamp\Week3\Movies\MoviesBussines\obj\Debug\netcoreapp3.1\Movies.Business.csproj.CopyComplete
+C:\Users\mehme\Desktop\TurkayUrkmezBootcamp\Week3\Movies\MoviesBussines\obj\Debug\netcoreapp3.1\Movies.Business.dll
+C:\Users\mehme\Desktop\TurkayUrkmezBootcamp\Week3\Movies\MoviesBussines\obj\Debug\netcoreapp3.1\Movies.Business.pdb
